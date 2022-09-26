@@ -13,3 +13,6 @@ https://reverse-engineering-ble-devices.readthedocs.io/
 https://stackoverflow.com/questions/65040343/reading-data-from-bluetooth-thermometer-with-gatttool
 
 https://www.reddit.com/r/homeassistant/comments/udvidt/how_to_reverse_engineer_a_bluetooth_device/
+
+![image](https://user-images.githubusercontent.com/77704710/192360658-756a7876-b7ef-41ec-84b2-2c66215235d4.png)
+
